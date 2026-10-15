@@ -1,2 +1,1 @@
-# LINUX
-Linux is a very essential Operating System required in cyber security.This repository showcases my learning journey and labs I have done to make sure am well equipped before starting my career.
+A collection of Linux labs, practical exercises, and hands-on projects documenting my learning journey in Linux administration and cybersecurity.
